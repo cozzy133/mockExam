@@ -1,6 +1,11 @@
 package ie.gmit;
+/*
+    Student class
 
-// Adding in new information
+    Padraig Ó Cosgora
+    G00311302
+    21/02/2020
+ */
 public class Student {
 
     private String name;

@@ -1,4 +1,11 @@
 package ie.gmit;
+/*
+    StudentList class
+
+    Padraig Ó Cosgora
+    G00311302
+    21/02/2020
+ */
 
 import java.security.InvalidParameterException;
 import java.util.ArrayList;

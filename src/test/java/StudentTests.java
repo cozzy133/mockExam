@@ -1,3 +1,11 @@
+/*
+    StudentTests class
+
+    Padraig Ó Cosgora
+    G00311302
+    21/02/2020
+ */
+
 import static org.junit.jupiter.api.Assertions.*;
 import ie.gmit.*;
 import org.junit.jupiter.api.Test;
